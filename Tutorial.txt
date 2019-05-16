@@ -1,0 +1,14 @@
+## BRUTEFORCE FACEBOOK ##
+
+$ pkg update && pkg upgrade
+$ pkg install python2
+$ pkg install git
+$ pip2 install mechanize
+$ git clone https://github.com/oxlynx/bruteforce.git
+$ cd bruteforce
+$ python2 bruteforce.py
+
+
+## GOOD LUCK ##
+
+Author : OxLynx
