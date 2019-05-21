@@ -309,8 +309,8 @@ def idteman():
 	else:
 		return menu()
 def menu():
-	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cOxL!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mOxL !cynx!k___\n\n !m* !bBRUTEFORCE FACEBOOK\n !m* !cAuthor OxLynx\n !m* !phttps://github.com/oxlynx/bruteforce\n !m* !phttps://youtube.com/oxlynx\n !m* !pWhatsapp : 085850252221\n!k.======================.\n|!h  JUMUK !mID!h TEKO.....  !k|\n'======================'\n!k#!p1 !hDAFTAR KONCO\n!k#!p2 !hANGGOTA GROUP\n!k#!p3 !mMETU...")
-	i = inputM('[?] PILIH NJENG',[1,2,3])
+	cetak("\n[+] BRUTEFORCE FACEBOOK [+]\n[!] GUNAKAN TOOLS INI DENGAN BIJAK [!]\n\n !pAuthor : OxLynx\n !pWhatsapp : 085850252221\n !pFacebook : Bagus P\n !phttps/github.com/oxlynx/bruteforce\n\n !m[1] TEMAN\n !m[2] GROUP\n !m[3] KELUAR")
+	i = inputM('[?] PILIH NJENG [?]',[1,2,3])
 	if i == 2:
 		lanjutG()
 		idgroup()
